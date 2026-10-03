@@ -19,10 +19,3 @@ sk_cache/
 .DS_Store
 Thumbs.db
 
-# Local source/reference material and review artifacts
-/DiDonato_Alex_CAM_C101_W6_Mini_project.ipynb
-/DiDonato_Alex_CAM_C101_W6_Mini_project - Copy.ipynb
-/customer_segmentation_combined_review.ipynb
-/NOTEBOOK_REVIEW.md
-/prepare_portfolio.py
-/reports
