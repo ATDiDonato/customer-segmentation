@@ -1,0 +1,28 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+sk_cache/
+.jupyter/
+
+# Keep raw customer data and local exports out of the portfolio
+*.csv
+*.zip
+*.parquet
+*.xlsx
+
+# Local configuration
+.env
+.DS_Store
+Thumbs.db
+
+# Local source/reference material and review artifacts
+/DiDonato_Alex_CAM_C101_W6_Mini_project.ipynb
+/DiDonato_Alex_CAM_C101_W6_Mini_project - Copy.ipynb
+/customer_segmentation_combined_review.ipynb
+/NOTEBOOK_REVIEW.md
+/prepare_portfolio.py
+/reports
