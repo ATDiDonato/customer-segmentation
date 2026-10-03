@@ -72,4 +72,4 @@ The runner executes only the preparation, full-data k=3 model, segment summary, 
 
 For interactive use, open the final notebook and select the project environment. `RECOMPUTE_DIAGNOSTICS`, `RUN_HIERARCHICAL` and `RUN_TSNE` default to **False**, so Run All skips expensive diagnostics, hierarchical clustering and t-SNE. Enabling a flag is an explicit opt-in using all customers; there is no sampling fallback. The optional t-SNE uses seed 42 and is separate from the saved original unseeded figure. Use the selective runner to refresh outputs while retaining the saved figures.
 
-Local source notebooks, comparison notes and review artifacts are excluded from the public presentation. The report is unchanged and omitted until it matches these results.
+[Read the project report](reports/customer-segmentation-report.pdf)
